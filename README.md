@@ -40,8 +40,8 @@ So I picked Amazon. One of the most complex UIs a beginner can attempt.
 
 ## 📸 Preview
 
-![Preview](screenshot.png)
-
+![Preview](screenshot1.png)
+![Preview](screenshot1.png)
 ---
 
 ## 🧠 What I Learned
