@@ -3,7 +3,7 @@
 > Recreating one of the world's most visited e-commerce interfaces — pixel by pixel, line by line.
 
 ![Amazon Clone Screenshot](screenshot1.png)(screenshot2.png)
-
+![Amazon Clone Screenshot](screenshot2.png)
 ---
 
 ## 🚀 Why I Built This
@@ -87,7 +87,7 @@ I'm a fresher SDE actively building real projects to break into the industry.
 This is one of many — more coming soon.
 
 📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/sunillm00)  
-💻 More projects at [github.com/YOUR_USERNAME](https://github.com/sunillm2026)
+💻 More projects at [github.com/sunillm2026](https://github.com/sunillm2026)
 
 ---
 
